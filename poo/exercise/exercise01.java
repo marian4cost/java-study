@@ -7,11 +7,10 @@ class Pessoa{
 
 public class exercise01 {
     public void main(String[] args){
-        Pessoa p1 = new Pessoa();
+        Pessoa p1 = new Pessoa(), p2 = new Pessoa();
         p1.name = "genisson";
         p1.age = 19;
 
-        Pessoa p2 = new Pessoa();
         p2.name = "mariana";
         p2.age = 19;
 
